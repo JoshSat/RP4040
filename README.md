@@ -3,6 +3,10 @@ dual dual core!
 
 two RP2040 on a single carrier board with all pins exposed as pads. LGA 84 needs to be developed and pads are not set in stone and will probably be adjusted to make more space. Flash chips are going to be in side the socket and USB is on the pads with their resistors.
 
+Things to do:
+re organize the pads to make routing easier and possible
+
+
 
 ![fl;dkjalfdkjhaflkjhds](https://user-images.githubusercontent.com/59792598/210097028-c98afbb0-5a04-47c0-a44b-187b47388b39.JPG)
 

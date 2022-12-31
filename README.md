@@ -6,6 +6,11 @@ two RP2040 on a single carrier board with all pins exposed as pads. LGA 84 needs
 Things to do:
 rename componets so there are no skipped numbers
 
+
+![flkdjshfalksjdhfalskdjfh](https://user-images.githubusercontent.com/59792598/210153198-79274846-46b4-4379-83bd-224f09aab908.JPG)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ![gsdlfkjghsldkfjgh](https://user-images.githubusercontent.com/59792598/210125215-b769cc47-c91c-4625-be44-1787ff6430a8.JPG)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
